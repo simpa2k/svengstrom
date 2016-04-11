@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css?family=Cutive+Mono:400');
+
+body {
+
+	font-family: "Cutive Mono" !important;
+
+}
+
+#nav {
+
+	padding: 1% 2% 1% 2%;
+
+}
+
+#nav p {
+	
+	display: inline;
+	margin-bottom: 0%;
+
+}
+
+.heading {
+
+	cursor: pointer;
+	-webkit-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out;
+
+}
+
+.heading:hover {
+
+	-ms-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+
+}
+
+#top-image {
+	
+	background-color: #76857E;
+
+}
+
+#welcome-text {
+	
+	padding: 5% 10% 5% 10%;
+
+}
+
+#bottom-section {
+
+	background-color: #76857E;
+
+}
+
+#navigation-square {
+
+	margin-left: 15%;
+
+}
+
+#navigation-square:hover h1 {
+
+	opacity: 0.7;
+
+}
+
+.navigation-square-choice {
+
+	padding: 15% 5% 15% 5%;
+	cursor: pointer;
+
+}
+
+.navigation-square-choice:hover > h1 {
+
+	opacity: 1.0 !important;
+
+}
+
+#music {
+
+	background-color: #819C87;
+	color: #ffffff;
+
+}
+
+#photo {
+
+	background-color: #ffffff;
+	color: #6A8D80;
+
+}
+
+#illustration {
+
+	background: -moz-linear-gradient(left, #839B95 50%, #7B9B88 50%);
+	background: -webkit-linear-gradient(left, #839B95 50%, #7B9B88 50%);
+	background: -o-linear-gradient(left, #839B95 50%, #7B9B88 50%);
+	background: linear-gradient(left, #839B95 50%, #7B9B88 50%);
+	background-color: #839B95;
+	color: #ffffff;
+
+}
+
+#coming-up {
+
+	color: #ffffff;
+	margin-left: 10%;
+
+}
+
+#coming-up li {
+
+	list-style: none;
+
+}
+
+#coming-up li h3, h4 {
+
+	display: inline-block;
+
+}
