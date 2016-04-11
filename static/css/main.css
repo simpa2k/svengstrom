@@ -94,10 +94,10 @@ body {
 
 #illustration {
 
-	background: -moz-linear-gradient(left, #839B95 50%, #7B9B88 50%);
+	/*background: -moz-linear-gradient(left, #839B95 50%, #7B9B88 50%);
 	background: -webkit-linear-gradient(left, #839B95 50%, #7B9B88 50%);
 	background: -o-linear-gradient(left, #839B95 50%, #7B9B88 50%);
-	background: linear-gradient(left, #839B95 50%, #7B9B88 50%);
+	background: linear-gradient(left, #839B95 50%, #7B9B88 50%);*/
 	background-color: #839B95;
 	color: #ffffff;
 
